@@ -13,18 +13,11 @@ This is a simple React application that allows users to change the background co
 
 ---
 
-## 📸 Demo
-
-![Demo Screenshot](screenshot.png)  
-> *(Replace with actual image or link to a live demo)*
-
----
-
 ## 🛠️ Built With
 
-- [React](https://reactjs.org/)
+- [React]
 - JavaScript (ES6+)
-- CSS (optional: Tailwind or styled-components)
+- CSS (Tailwind)
 
 ---
 
